@@ -1,0 +1,16 @@
+Tramo (1): 0 m < x < 0.045 m
+	Posicion: (0.045 m, -0.00804911 m)
+	Velocidad: (3.4e+06 m/s, -1.21631e+06 m/s)
+	Angulo: -19.6841 deg
+Tramo (2): 0.045 m < x < 0.135 m
+	Posicion: (0.135 m, -0.00804911 m)
+	Velocidad: (3.4e+06 m/s, 1.21631e+06 m/s)
+	Angulo: 19.6841 deg
+Tramo (3): 0.135 m < x < 0.225 m
+	Posicion: (0.225 m, -0.00804911 m)
+	Velocidad: (3.4e+06 m/s, -1.21631e+06 m/s)
+	Angulo: -19.6841 deg
+Tramo (4): 0.225 m < x < 0.315 m
+	Posicion: (0.315 m, -0.00804911 m)
+	Velocidad: (3.4e+06 m/s, 1.21631e+06 m/s)
+	Angulo: 19.6841 deg
